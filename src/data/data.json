@@ -1,0 +1,122 @@
+[
+    {
+        "language": "English",
+        "numberOfAudioBooks": 7,
+        "class1": [
+            {
+                "title": "Alphabet Adventure",
+                "url": "https://example.com/audio/english/alphabet-adventure.mp3",
+                "imageUrl": "https://example.com/images/english/alphabet-adventure.jpg"
+            },
+            {
+                "title": "Counting Fun",
+                "url": "https://example.com/audio/english/counting-fun.mp3",
+                "imageUrl": "https://example.com/images/english/counting-fun.jpg"
+            },
+            {
+                "title": "Colors and Shapes",
+                "url": "https://example.com/audio/english/colors-shapes.mp3",
+                "imageUrl": "https://example.com/images/english/colors-shapes.jpg"
+            }
+        ],
+        "class2": [
+            {
+                "title": "Short Stories for Kids",
+                "url": "https://example.com/audio/english/short-stories.mp3",
+                "imageUrl": "https://example.com/images/english/short-stories.jpg"
+            },
+            {
+                "title": "Basic Phonics",
+                "url": "https://example.com/audio/english/basic-phonics.mp3",
+                "imageUrl": "https://example.com/images/english/basic-phonics.jpg"
+            }
+        ],
+        "class3": [
+            {
+                "title": "Simple Science Tales",
+                "url": "https://example.com/audio/english/simple-science.mp3",
+                "imageUrl": "https://example.com/images/english/simple-science.jpg"
+            },
+            {
+                "title": "Fun Geography",
+                "url": "https://example.com/audio/english/fun-geography.mp3",
+                "imageUrl": "https://example.com/images/english/fun-geography.jpg"
+            }
+        ]
+    },
+    {
+        "language": "Hindi",
+        "numberOfAudioBooks": 6,
+        "class1": [
+            {
+                "title": "अक्षर यात्रा",
+                "url": "https://example.com/audio/hindi/akshar-yatra.mp3",
+                "imageUrl": "https://example.com/images/hindi/akshar-yatra.jpg"
+            },
+            {
+                "title": "गिनती गीत",
+                "url": "https://example.com/audio/hindi/ginti-geet.mp3",
+                "imageUrl": "https://example.com/images/hindi/ginti-geet.jpg"
+            }
+        ],
+        "class2": [
+            {
+                "title": "छोटी कहानियाँ",
+                "url": "https://example.com/audio/hindi/choti-kahaniyan.mp3",
+                "imageUrl": "https://example.com/images/hindi/choti-kahaniyan.jpg"
+            },
+            {
+                "title": "बसे सरल विज्ञान",
+                "url": "https://example.com/audio/hindi/saral-vigyan.mp3",
+                "imageUrl": "https://example.com/images/hindi/saral-vigyan.jpg"
+            },
+            {
+                "title": "ध्वनि अभ्यास",
+                "url": "https://example.com/audio/hindi/dhvani-abhyas.mp3",
+                "imageUrl": "https://example.com/images/hindi/dhvani-abhyas.jpg"
+            }
+        ],
+        "class3": [
+            {
+                "title": "मज़ेदार भूगोल",
+                "url": "https://example.com/audio/hindi/mazeed-bhoogol.mp3",
+                "imageUrl": "https://example.com/images/hindi/mazeed-bhoogol.jpg"
+            }
+        ]
+    },
+    {
+        "language": "Kannada",
+        "numberOfAudioBooks": 5,
+        "class1": [
+            {
+                "title": "ಅಕ್ಷರ ಓದು",
+                "url": "https://example.com/audio/kannada/akshara-odu.mp3",
+                "imageUrl": "https://example.com/images/kannada/akshara-odu.jpg"
+            }
+        ],
+        "class2": [
+            {
+                "title": "ಸಂಖ್ಯೆಗಳ ಹಾಡು",
+                "url": "https://example.com/audio/kannada/sankhyege-hadu.mp3",
+                "imageUrl": "https://example.com/images/kannada/sankhyege-hadu.jpg"
+            },
+            {
+                "title": "ಭಾವಪ್ರಕಾಶಕ ಕತೆಗಳು",
+                "url": "https://example.com/audio/kannada/kathagalu.mp3",
+                "imageUrl": "https://example.com/images/kannada/kathagalu.jpg"
+            }
+        ],
+        "class3": [
+            {
+                "title": "ಸಾಧಾರಣ ವಿಜ್ಞಾನ",
+                "url": "https://example.com/audio/kannada/sadharana-vijnana.mp3",
+                "imageUrl": "https://example.com/images/kannada/sadharana-vijnana.jpg"
+            },
+            {
+                "title": "ರಂಗಿನ ಪ್ರಪಂಚ",
+                "url": "https://example.com/audio/kannada/rangina-prapanca.mp3",
+                "imageUrl": "https://example.com/images/kannada/rangina-prapanca.jpg"
+            }
+        ]
+    }
+]
