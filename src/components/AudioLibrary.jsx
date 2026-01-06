@@ -198,6 +198,7 @@ const AudioLibraryPage = () => {
                             <option value="English">English</option>
                             <option value="Hindi">Hindi</option>
                             <option value="Marathi">Marathi</option>
+                            <option value="Kannada">Kannada</option>
                         </select>
                         <select
                             value={filterCategory}
@@ -237,14 +238,14 @@ const AudioLibraryPage = () => {
                                 {audio.title}
                             </h3>
                             <div className="text-gray-700 text-sm space-x-2 mb-4">
-                                <span>{audio.year}</span>
-                                <span>•</span>
+                                <span className="hidden md:inline">{audio.year}</span>
+                                <span className="hidden md:inline">•</span>
                                 <span>{audio.language}</span>
                                 <span>•</span>
-                                <span>Grade {audio.grade}</span>
-                                <span>•</span>
-                                <span>{audio.category}</span>
-                                <span>•</span>
+                                <span className="hidden md:inline">Grade {audio.grade}</span>
+                                <span className="hidden md:inline">•</span>
+                                <span className="hidden md:inline">{audio.category}</span>
+                                <span className="hidden md:inline">•</span>
                                 <span>{audio.contributor}</span>
                             </div>
                             <AudioRow
@@ -266,28 +267,28 @@ const AudioLibraryPage = () => {
 
             {/* ✅ STICKY NOW PLAYING BAR */}
             {currentAudio && (
-                <div className="fixed bottom-0 left-0 right-0 bg-white border-t border-rose-200 shadow-lg">
+                <div className="fixed bottom-0 left-0 right-0 bg-[#d61264] border-t border-rose-200 shadow-lg">
                     <div className="max-w-6xl mx-auto px-6 py-4 flex items-center gap-8">
                         <button
                             onClick={() => handlePlay(currentAudio)}
-                            className="w-12 h-12 rounded-full bg-[#D61264] text-white flex items-center justify-center"
+                            className="w-12 h-12 rounded-full bg-white text-[#D61264] flex items-center justify-center"
                         >
                             {isPlaying ? <Pause /> : <Play className="ml-1" />}
                         </button>
 
                         <div className="flex-1">
 
-                            <div className="font-bold text-[#d61264]">
+                            <div className="font-bold text-white">
                                 Now Playing
                             </div>
 
-                            <div className="font-semibold text-gray-900">
+                            <div className="font-semibold text-gray-300">
                                 {currentAudio.title}
                             </div>
 
-                            <div className="h-1.5 bg-gray-200 rounded-full overflow-hidden mt-2">
+                            <div className="h-1.5 bg-black rounded-full overflow-hidden mt-2">
                                 <div
-                                    className="h-full bg-[#D61264]"
+                                    className="h-full bg-white"
                                     style={{ width: `${progress}%` }}
                                 />
                             </div>

@@ -9,138 +9,98 @@ import ContributorsPage from './components/ContributorsPage';
 import AboutPage from './components/AboutPage';
 import JourneyPage from './components/JourneyPage';
 import AudioLibraryPage from './components/AudioLibrary';
+import { Menu} from "lucide-react";
 
-
-const audioFiles = [
-  {
-    id: 1,
-    title: "Shaheed Bhagat Singh",
-    year: 2025,
-    grade: "3-5",
-    language: "Hindi",
-    category: "Story",
-    contributor: "Rtr. Pratham M Pimpalshende",
-    url: "https://rotaractrvce.com/awaaz/2024/hindi/ShaheedBhagatSingh.mp3"
-  },
-  {
-    id: 2,
-    title: "Arjuna and the Bird's Eye",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Story",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/ArjunaAndBirdsEye.m4a"
-  },
-  {
-    id: 3,
-    title: "Krisha and Arjuna",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Story",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/KrishnaAndArjuna.m4a"
-  },
-  {
-    id: 4,
-    title: "Eklavya - The Silent Disciple",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Story",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/EklavyaTheSilentDisciple.m4a"
-  },
-  {
-    id: 5,
-    title: "Milo The Cat",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Poem",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/MiloTheCat.m4a"
-  },
-  {
-    id: 5,
-    title: "The Dream Train",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Poem",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/TheDreamTrain.m4a"
-  },
-  {
-    id: 5,
-    title: "I Can Still Fly - Aashi Verma",
-    year: 2025,
-    grade: "3-5",
-    language: "English",
-    category: "Poem",
-    contributor: "Rtr. Priyam Parashar",
-    url: "https://rotaractrvce.com/awaaz/2024/english/ICanStillFlyByAashiVerma.m4a"
-  },
-];
-
-
-// const partnerNGOs = [
-//   { name: "Akshar Foundation", location: "Mumbai, Maharashtra", purpose: "Literacy & Education for underprivileged children", audioCount: 24 },
-//   { name: "Pratham Education", location: "Pune, Maharashtra", purpose: "Quality education for every child", audioCount: 18 },
-//   { name: "Teach For India", location: "Bangalore, Karnataka", purpose: "Educational equity through leadership", audioCount: 31 },
-//   { name: "Smile Foundation", location: "Delhi, NCR", purpose: "Education, healthcare & livelihood", audioCount: 22 },
-// ];
-
-
-
-
-// Audio Player Component
-
-// Main App Component
 const AwaazWebsite = () => {
   const [currentPage, setCurrentPage] = useState('home');
-  
 
-  // Navigation
-  const Nav = () => (
-    <nav className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
-      <div className="mx-auto px-6 py-4">
-        <div className="flex items-center justify-between">
-          <button
-            onClick={() => setCurrentPage('home')}
-            className="text-2xl font-sans font-bold text-[#D61264] hover:text-rose-700 transition-colors   rounded flex justify-center items-center gap-4"
-            aria-label="Awaaz Home"
-          >
-            <div className='w-14 h-14'>
-              <img src="/rotaract.png" alt="" />
+  const Nav = () => {
+    const [open, setOpen] = useState(false);
+
+    const pages = [
+      { key: "home", label: "Home" },
+      { key: "about", label: "About" },
+      { key: "journey", label: "Our Journey" },
+      { key: "audio", label: "Audio Library" },
+      { key: "beneficiaries", label: "Beneficiaries" },
+      { key: "contributors", label: "Contributors" },
+      { key: "contact", label: "Contact" },
+    ];
+
+    const handleNav = (page) => {
+      setCurrentPage(page);
+      setOpen(false);
+    };
+
+    return (
+      <nav className="bg-white border-b border-gray-200 sticky top-0 z-50 shadow-sm">
+        <div className="mx-auto px-6 py-4">
+          <div className="flex items-center justify-between">
+            {/* Logo / Title */}
+            <button
+              onClick={() => handleNav("home")}
+              className="text-lg md:text-2xl font-bold text-[#D61264] hover:text-rose-700 transition-colors rounded flex items-center gap-3 text-left"
+              aria-label="Awaaz Home"
+            >
+              <div className="w-10 h-10 md:w-20 md:h-20">
+                <img src="/rotaract.png" alt="Awaaz Logo" />
+              </div>
+              <div className="leading-tight text-3xl">
+                Awaaz
+                <div className="text-xs md:text-base text-gray-500 font-medium">
+                  An Initiative by Rotaract Club of RVCE
+                </div>
+              </div>
+            </button>
+
+            {/* Desktop Menu */}
+            <div className="hidden md:flex gap-6">
+              {pages.map((p) => (
+                <button
+                  key={p.key}
+                  onClick={() => handleNav(p.key)}
+                  className={`text-sm font-medium transition-colors focus:outline-none ${currentPage === p.key
+                      ? "text-[#D61264]"
+                      : "text-gray-700 hover:text-[#D61264]"
+                    }`}
+                  aria-current={currentPage === p.key ? "page" : undefined}
+                >
+                  {p.label}
+                </button>
+              ))}
             </div>
-            <div>
-              Awaaz - An Inititative by the Rotaract Club of RVCE
-            </div>
-          </button>
-          <div className="flex gap-6">
-            {['home', 'about', 'journey', 'audio', 'beneficiaries', 'contributors', 'contact'].map(page => (
-              <button
-                key={page}
-                onClick={() => setCurrentPage(page)}
-                className={`text-sm font-medium transition-colors focus:outline-none focus:underline ${currentPage === page ? 'text-[#D61264]' : 'text-gray-700 hover:text-[#D61264]'
-                  }`}
-                aria-current={currentPage === page ? 'page' : undefined}
-              >
-                {page === 'home' ? 'Home' :
-                  page === 'about' ? 'About' :
-                    page === 'journey' ? 'Our Journey' :
-                      page === 'audio' ? 'Audio Library' :
-                        page === 'beneficiaries' ? 'Beneficiaries' :
-                          page === 'contributors' ? 'Contributors' : 'Contact'}
-              </button>
-            ))}
+
+            {/* Mobile Menu Button */}
+            <button
+              className="md:hidden p-2 rounded-lg hover:bg-gray-100"
+              onClick={() => setOpen(!open)}
+              aria-label="Toggle menu"
+            >
+              {open ? <X /> : <Menu />}
+            </button>
           </div>
+
+          {/* Mobile Menu */}
+          {open && (
+            <div className="md:hidden mt-4 border-t pt-4 flex flex-col gap-3">
+              {pages.map((p) => (
+                <button
+                  key={p.key}
+                  onClick={() => handleNav(p.key)}
+                  className={`text-left px-2 py-2 rounded-lg font-medium transition-colors ${currentPage === p.key
+                      ? "text-[#D61264] bg-rose-50"
+                      : "text-gray-700 hover:bg-gray-100"
+                    }`}
+                >
+                  {p.label}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
-      </div>
-    </nav>
-  );
+      </nav>
+    );
+  };
 
   // Home Page
   const HomePage = () => (
@@ -219,7 +179,7 @@ const AwaazWebsite = () => {
   );
 
   // Audio Library Page
-  
+
 
 
 
