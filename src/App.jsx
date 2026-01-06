@@ -9,7 +9,7 @@ import ContributorsPage from './components/ContributorsPage';
 import AboutPage from './components/AboutPage';
 import JourneyPage from './components/JourneyPage';
 import AudioLibraryPage from './components/AudioLibrary';
-import { Menu} from "lucide-react";
+import { Menu } from "lucide-react";
 
 const AwaazWebsite = () => {
   const [currentPage, setCurrentPage] = useState('home');
@@ -60,8 +60,8 @@ const AwaazWebsite = () => {
                   key={p.key}
                   onClick={() => handleNav(p.key)}
                   className={`text-sm font-medium transition-colors focus:outline-none ${currentPage === p.key
-                      ? "text-[#D61264]"
-                      : "text-gray-700 hover:text-[#D61264]"
+                    ? "text-[#D61264]"
+                    : "text-gray-700 hover:text-[#D61264]"
                     }`}
                   aria-current={currentPage === p.key ? "page" : undefined}
                 >
@@ -88,8 +88,8 @@ const AwaazWebsite = () => {
                   key={p.key}
                   onClick={() => handleNav(p.key)}
                   className={`text-left px-2 py-2 rounded-lg font-medium transition-colors ${currentPage === p.key
-                      ? "text-[#D61264] bg-rose-50"
-                      : "text-gray-700 hover:bg-gray-100"
+                    ? "text-[#D61264] bg-rose-50"
+                    : "text-gray-700 hover:bg-gray-100"
                     }`}
                 >
                   {p.label}
@@ -173,6 +173,43 @@ const AwaazWebsite = () => {
               </p>
             </div>
           ))}
+        </div>
+      </section>
+      <section className="relative max-w-6xl mx-auto px-6 py-24">
+        <div className="bg-white/70 backdrop-blur-xl rounded-3xl shadow-lg border border-rose-100 p-10 md:p-16">
+          <div className="grid md:grid-cols-2 gap-12 items-center">
+
+            {/* Award Image */}
+            <div className="flex justify-center">
+              <img
+                src="/award2025.png"
+                alt="Miracle Awards 2024-25 - Best in Area of Focus (Education)"
+                className="max-w-sm w-full rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300"
+              />
+            </div>
+
+            {/* Award Text */}
+            <div>
+              <span className="inline-block mb-4 px-4 py-1 rounded-full bg-rose-100 text-rose-700 text-sm tracking-wide">
+                Awards & Recognition
+              </span>
+
+              <h2 className="text-4xl md:text-5xl font-sans font-bold text-gray-900 mb-6">
+                Best in Area Of Focus <br />
+                <span className="text-[#D61264]">(Education)</span>
+              </h2>
+
+              <p className="text-lg text-gray-700 leading-relaxed mb-4">
+                Awaaz was honored during the <b>Miracle Awards Recognitions (RY 2024–25)</b> for its impactful
+                contribution in the field of education through audio storytelling.
+              </p>
+
+              <p className="text-gray-600">
+                This recognition celebrates our mission to make knowledge accessible,
+                inclusive, and human — one voice at a time.
+              </p>
+            </div>
+          </div>
         </div>
       </section>
     </div>
