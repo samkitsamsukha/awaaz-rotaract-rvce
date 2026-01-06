@@ -37,21 +37,42 @@ const AwaazWebsite = () => {
         <div className="mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             {/* Logo / Title */}
-            <button
-              onClick={() => handleNav("home")}
-              className="text-lg md:text-2xl font-bold text-[#D61264] hover:text-rose-700 transition-colors rounded flex items-center gap-3 text-left"
-              aria-label="Awaaz Home"
-            >
-              <div className="w-10 h-10 md:w-20 md:h-20">
-                <img src="/rotaract.png" alt="Awaaz Logo" />
-              </div>
-              <div className="leading-tight text-3xl">
-                Awaaz
-                <div className="text-xs md:text-base text-gray-500 font-medium">
-                  An Initiative by Rotaract Club of RVCE
+            <div className="flex items-center gap-3">
+              {/* Rotaract Logo + Text → External Website */}
+              <a
+                href="https://rotaractrvce.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-3 group"
+                aria-label="Rotaract Club of RVCE Website"
+              >
+                <div className="w-10 h-10 md:w-20 md:h-20">
+                  <img src="/rotaract.png" alt="Rotaract Club of RVCE Logo" />
                 </div>
+              </a>
+
+              <div className="leading-tight">
+                {/* Awaaz → Home */}
+                <button
+                  onClick={() => handleNav("home")}
+                  className="text-lg md:text-2xl font-bold text-[#D61264] hover:text-rose-700 transition-colors text-left"
+                  aria-label="Awaaz Home"
+                >
+                  <div className="text-3xl">Awaaz</div>
+                </button>
+
+                {/* Rotaract Text → External Website */}
+                <a
+                  href="https://rotaractrvce.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs md:text-base text-gray-500 font-medium hover:text-gray-700 transition-colors block"
+                >
+                  An Initiative by Rotaract Club of RVCE
+                </a>
               </div>
-            </button>
+            </div>
+
 
             {/* Desktop Menu */}
             <div className="hidden md:flex gap-6">
