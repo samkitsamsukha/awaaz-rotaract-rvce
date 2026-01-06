@@ -81,16 +81,21 @@ const AudioLibraryPage = () => {
     const [filterLanguage, setFilterLanguage] = useState("all");
     const [filterCategory, setFilterCategory] = useState("all");
     const [searchQuery, setSearchQuery] = useState("");
+    const [filterContributor, setFilterContributor] = useState("all");
+
+    const contributors = ["all", ...new Set(audioFiles.map(a => a.contributor))];
 
     const filteredAudio = audioFiles.filter((audio) => {
         return (
             (filterGrade === "all" || audio.grade === filterGrade) &&
             (filterLanguage === "all" || audio.language === filterLanguage) &&
             (filterCategory === "all" || audio.category === filterCategory) &&
+            (filterContributor === "all" || audio.contributor === filterContributor) &&
             (searchQuery === "" ||
                 audio.title.toLowerCase().includes(searchQuery.toLowerCase()))
         );
     });
+
 
     // Preload audio durations
     useEffect(() => {
@@ -213,6 +218,19 @@ const AudioLibraryPage = () => {
                             <option value="Educational">Educational</option>
                             <option value="Motivational">Motivational</option>
                         </select>
+                        <select
+                            value={filterContributor}
+                            onChange={(e) => setFilterContributor(e.target.value)}
+                            className="px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-rose-500"
+                            aria-label="Filter by contributor"
+                        >
+                            {contributors.map((c) => (
+                                <option key={c} value={c}>
+                                    {c === "all" ? "All Contributors" : c}
+                                </option>
+                            ))}
+                        </select>
+
                     </div>
                     <div className="relative">
                         <Search className="absolute left-3 top-3 text-gray-400" size={20} />

@@ -16,44 +16,28 @@ const awards = [
     image: "/award2025.png",
     title: "Best in Area Of Focus",
     highlight: "(Education)",
-    badge: "Awards & Recognition",
-    description1:
-      "Awaaz was honored during the Miracle Awards Recognitions (RY 2024–25) for its impactful contribution in the field of education through audio storytelling.",
-    description2:
-      "This recognition celebrates our mission to make knowledge accessible, inclusive, and human — one voice at a time.",
+    badge: "Awarded by Rotary District Organisation 3191 2024-25",
     alt: "Miracle Awards 2024-25 - Best in Area of Focus (Education)",
   },
   {
     image: "/outstandingproject2024.png",
     title: "Outstanding Project",
     highlight: "By A Rotaract Club",
-    badge: "Awards & Recognition",
-    description1:
-      "Awaaz was recognized as Outstanding Project by a Rotaract Club by RSA MDIO for its meaningful social impact and innovation.",
-    description2:
-      "This award acknowledges the scale, consistency, and real-world value created through the Awaaz initiative.",
+    badge: "Awarded by Rotaract South Asia MDIO",
     alt: "Outstanding Project By A Rotaract Club (RSA MDIO)",
   },
   {
     image: "/mostimpactfulinitiative2024.png",
     title: "Most Impactful Initiative",
     highlight: "University Based Club",
-    badge: "Awards & Recognition",
-    description1:
-      "Awaaz received this award during the Limitless Awards (RY 2023–24) for being the most impactful initiative by a university-based Rotaract club.",
-    description2:
-      "This recognition celebrates the platform’s reach, accessibility-first design, and community-driven impact.",
+    badge: "Awarded by Rotary District Organisation 3191 2023-24",
     alt: "Most Impactful Initiative By A University Based Club",
   },
   {
     image: "/outstandingliteracyeducation2024.png",
     title: "Outstanding Project in",
     highlight: "Literacy & Education Avenue",
-    badge: "Awards & Recognition",
-    description1:
-      "Awaaz was awarded Outstanding Project in the Literacy and Education Avenue for RY 2023–24 at T.U.R.F., Indore.",
-    description2:
-      "This honors our consistent efforts to make education accessible to visually impaired learners through audio.",
+    badge: "Awarded by SEARIC MDIO during T.U.R.F. Indore",
     alt: "Outstanding Project in Literacy and Education Avenue",
   },
 ];
@@ -95,7 +79,7 @@ const AwaazWebsite = () => {
                 className="flex items-center gap-3 group"
                 aria-label="Rotaract Club of RVCE Website"
               >
-                <div className="w-10 h-10 md:w-20 md:h-20">
+                <div className="w-15 h-15 md:w-20 md:h-20">
                   <img src="/rotaract.png" alt="Rotaract Club of RVCE Logo" />
                 </div>
               </a>
@@ -117,7 +101,7 @@ const AwaazWebsite = () => {
                   rel="noopener noreferrer"
                   className="text-xs md:text-base text-gray-500 font-medium hover:text-gray-700 transition-colors block"
                 >
-                  An Initiative by Rotaract Club of RVCE
+                  An Initiative by the Rotaract Club of RVCE
                 </a>
               </div>
             </div>
