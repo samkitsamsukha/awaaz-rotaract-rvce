@@ -11,11 +11,60 @@ import JourneyPage from './components/JourneyPage';
 import AudioLibraryPage from './components/AudioLibrary';
 import { Menu } from "lucide-react";
 
+const awards = [
+  {
+    image: "/award2025.png",
+    title: "Best in Area Of Focus",
+    highlight: "(Education)",
+    badge: "Awards & Recognition",
+    description1:
+      "Awaaz was honored during the Miracle Awards Recognitions (RY 2024–25) for its impactful contribution in the field of education through audio storytelling.",
+    description2:
+      "This recognition celebrates our mission to make knowledge accessible, inclusive, and human — one voice at a time.",
+    alt: "Miracle Awards 2024-25 - Best in Area of Focus (Education)",
+  },
+  {
+    image: "/outstandingproject2024.png",
+    title: "Outstanding Project",
+    highlight: "By A Rotaract Club",
+    badge: "Awards & Recognition",
+    description1:
+      "Awaaz was recognized as Outstanding Project by a Rotaract Club by RSA MDIO for its meaningful social impact and innovation.",
+    description2:
+      "This award acknowledges the scale, consistency, and real-world value created through the Awaaz initiative.",
+    alt: "Outstanding Project By A Rotaract Club (RSA MDIO)",
+  },
+  {
+    image: "/mostimpactfulinitiative2024.png",
+    title: "Most Impactful Initiative",
+    highlight: "University Based Club",
+    badge: "Awards & Recognition",
+    description1:
+      "Awaaz received this award during the Limitless Awards (RY 2023–24) for being the most impactful initiative by a university-based Rotaract club.",
+    description2:
+      "This recognition celebrates the platform’s reach, accessibility-first design, and community-driven impact.",
+    alt: "Most Impactful Initiative By A University Based Club",
+  },
+  {
+    image: "/outstandingliteracyeducation2024.png",
+    title: "Outstanding Project in",
+    highlight: "Literacy & Education Avenue",
+    badge: "Awards & Recognition",
+    description1:
+      "Awaaz was awarded Outstanding Project in the Literacy and Education Avenue for RY 2023–24 at T.U.R.F., Indore.",
+    description2:
+      "This honors our consistent efforts to make education accessible to visually impaired learners through audio.",
+    alt: "Outstanding Project in Literacy and Education Avenue",
+  },
+];
+
 const AwaazWebsite = () => {
   const [currentPage, setCurrentPage] = useState('home');
 
   const Nav = () => {
     const [open, setOpen] = useState(false);
+
+
 
     const pages = [
       { key: "home", label: "Home" },
@@ -196,43 +245,45 @@ const AwaazWebsite = () => {
           ))}
         </div>
       </section>
-      <section className="relative max-w-6xl mx-auto px-6 py-24">
-        <div className="bg-white/70 backdrop-blur-xl rounded-3xl shadow-lg border border-rose-100 p-10 md:p-16">
-          <div className="grid md:grid-cols-2 gap-12 items-center">
+      {awards.map((award, index) => (
+        <section key={index} className="relative max-w-6xl mx-auto px-6 py-24">
+          <div className="bg-white/70 backdrop-blur-xl rounded-3xl shadow-lg border border-rose-100 p-10 md:p-16">
+            <div className="grid md:grid-cols-2 gap-12 items-center">
 
-            {/* Award Image */}
-            <div className="flex justify-center">
-              <img
-                src="/award2025.png"
-                alt="Miracle Awards 2024-25 - Best in Area of Focus (Education)"
-                className="max-w-sm w-full rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300"
-              />
-            </div>
+              {/* Award Image */}
+              <div className="flex justify-center">
+                <img
+                  src={award.image}
+                  alt={award.alt}
+                  className="max-w-sm w-full rounded-2xl shadow-lg hover:scale-105 transition-transform duration-300"
+                />
+              </div>
 
-            {/* Award Text */}
-            <div>
-              <span className="inline-block mb-4 px-4 py-1 rounded-full bg-rose-100 text-rose-700 text-sm tracking-wide">
-                Awards & Recognition
-              </span>
+              {/* Award Text */}
+              <div>
+                <span className="inline-block mb-4 px-4 py-1 rounded-full bg-rose-100 text-rose-700 text-sm tracking-wide">
+                  {award.badge}
+                </span>
 
-              <h2 className="text-4xl md:text-5xl font-sans font-bold text-gray-900 mb-6">
-                Best in Area Of Focus <br />
-                <span className="text-[#D61264]">(Education)</span>
-              </h2>
+                <h2 className="text-4xl md:text-5xl font-sans font-bold text-gray-900 mb-6">
+                  {award.title} <br />
+                  <span className="text-[#D61264]">{award.highlight}</span>
+                </h2>
 
-              <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                Awaaz was honored during the <b>Miracle Awards Recognitions (RY 2024–25)</b> for its impactful
-                contribution in the field of education through audio storytelling.
-              </p>
+                <p className="text-lg text-gray-700 leading-relaxed mb-4">
+                  {award.description1}
+                </p>
 
-              <p className="text-gray-600">
-                This recognition celebrates our mission to make knowledge accessible,
-                inclusive, and human — one voice at a time.
-              </p>
+                <p className="text-gray-600">
+                  {award.description2}
+                </p>
+              </div>
+
             </div>
           </div>
-        </div>
-      </section>
+        </section>
+      ))}
+
     </div>
   );
 
