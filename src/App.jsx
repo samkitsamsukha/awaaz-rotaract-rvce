@@ -159,7 +159,7 @@ const AwaazWebsite = () => {
   // Home Page
   const HomePage = () => (
     <div className="relative min-h-screen overflow-hidden bg-gradient-to-b from-rose-50 via-rose-50/70 to-white">
-      <Construction />
+      {/* <Construction /> */}
       {/* Background Art Elements */}
       <div className="absolute top-[-6rem] left-[-6rem] w-96 h-96 bg-rose-200/40 rounded-full blur-3xl" />
       <div className="absolute top-40 right-[-5rem] w-80 h-80 bg-rose-300/30 rounded-full blur-3xl" />
