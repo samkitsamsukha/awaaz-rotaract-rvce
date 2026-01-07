@@ -55,7 +55,7 @@ const AwaazWebsite = () => {
       { key: "about", label: "About" },
       { key: "journey", label: "Our Journey" },
       { key: "audio", label: "Audio Library" },
-      { key: "beneficiaries", label: "Beneficiaries" },
+      // { key: "beneficiaries", label: "Beneficiaries" },
       { key: "contributors", label: "Contributors" },
       { key: "contact", label: "Contact" },
     ];
@@ -301,7 +301,7 @@ const AwaazWebsite = () => {
       {currentPage === 'about' && <AboutPage />}
       {currentPage === 'journey' && <JourneyPage />}
       {currentPage === 'audio' && <AudioLibraryPage />}
-      {currentPage === 'beneficiaries' && <PartnersPage />}
+      {/* {currentPage === 'beneficiaries' && <PartnersPage />} */}
       {currentPage === 'contributors' && <ContributorsPage />}
       {currentPage === 'contact' && <ContactPage />}
       <Footer />

@@ -26,6 +26,31 @@ const partnerNGOs = [
         name: "The Welfare Schools for Blind",
         description: "They provide specialized education and residential care for children with visual impairment. The school focuses on inclusive learning, life skills training, and rehabilitation to help students lead independent and confident lives.",
         location: "Near Darji Pokhari, Ranipatna, Manikhamb, Balasore, Gopalgoan, Odisha - 756001"
+    },
+    {
+        name: "Sri Rakum School For The Blind And The Sighted Unprivileged",
+        description: "Providing free, inclusive education for visually impaired and underprivileged children from nursery to postgraduate level, integrating blind and sighted students in one learning environment. Focused on academics, life skills, and confidence-building to help students lead independent lives.",
+        location: "Indiranagar 1st Stage, Bangalore, India"
+    },
+    {
+        name: "National Association for the Blind Kerala",
+        description: "Working across Kerala to support and advocate for persons with visual and other disabilities, the National Association for the Blind Kerala focuses on education, inclusion, and equal opportunities. With decades of experience, it empowers thousands to lead dignified and independent lives.",
+        location: "Plammoodu, Thiruvananthapuram, Kerala"
+    },
+    {
+        name: "JMR Blind School (Ashakiran Trust)",
+        description: "Established in 1991, Ashakiran Trust is dedicated to the education and welfare of blind and physically challenged children through its residential school and vocational training programs. The organization focuses on holistic development, providing education, care, and life skills with the support of committed trustees and well-wishers.",
+        location: "Haladakatta, Siddapur, Karnataka"
+    },
+    {
+        name: "Thaaikarangal Charitable Trust",
+        description: "Founded in 2019, Thaaikarangal Charitable Trust is committed to empowering the visually challenged by creating equal opportunities for education and personal growth. The trust focuses on holistic development, enabling individuals to excel across academics, careers, and life pursuits.",
+        location: "Kannan Nagar, VOC Nagar Post, Thanjavur, Tamil Nadu"
+    },
+    {
+        name: "Navjyot Andhjan Mandal, Paldi",
+        description: "Dedicated to supporting blind students pursuing higher education, this organization provides essential residential, study, and living facilities for visually impaired individuals in Ahmedabad. Focused on empowerment through education, it works to remove barriers and promote independence and dignity for the blind community.",
+        location: "Ahmedabad, Gujarat"
     }
 ];
 
