@@ -207,7 +207,7 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Divya Sarvi",
-        url: "https://rotaractrvce.com/awaaz/2025/kannada/18Parvas.mp3"
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/18Parvas.m4a"
     },
     {
         id: 22,
@@ -217,7 +217,7 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Divya Sarvi",
-        url: "https://rotaractrvce.com/awaaz/2025/kannada/Kamadhenu.mp3"
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Kamadhenu.m4a"
     },
     {
         id: 23,
@@ -227,7 +227,7 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Divya Sarvi",
-        url: "https://rotaractrvce.com/awaaz/2025/kannada/KrishnanaUpadesha.mp3"
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/KrishnanaUpadesha.m4a"
     },
     {
         id: 24,
@@ -237,7 +237,7 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Divya Sarvi",
-        url: "https://rotaractrvce.com/awaaz/2025/kannada/Samanthapanchaka.mp3"
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Samanthapanchaka.m4a"
     },
     {
         id: 25,
@@ -247,8 +247,58 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Divya Sarvi",
-        url: "https://rotaractrvce.com/awaaz/2025/kannada/YuddhishtiranaSatyaprema.mp3"
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/YuddhishtiranaSatyaprema.m4a"
     },
+    {
+        id: 26,
+        title: "The Ant and the If",
+        year: 2026,
+        grade: "1-2",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2026/english/If&Ant.m4a"
+    },
+    {
+        id: 27,
+        title: "The Emperor's New Clothes",
+        year: 2026,
+        grade: "1-2",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EmperorsNewClothes.m4a"
+    },
+    {
+        id: 28,
+        title: "The Coconut Vendor and the Boy",
+        year: 2026,
+        grade: "1-2",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheCoconutVendor&Boy.m4a"
+    },
+    {
+        id: 29,
+        title: "The Missing Tenth Man",
+        year: 2026,
+        grade: "1-2",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMissingTenthMan.m4a"
+    },
+    {
+        id: 30,
+        title: "The Rats and the Fat Cat",
+        year: 2026,
+        grade: "1-2",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheRats&FatCat.m4a"
+    }
 ];
 
 export default audioFiles;
