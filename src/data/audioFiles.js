@@ -199,6 +199,56 @@ const audioFiles = [
         contributor: "Rtr. Shreeya Suman",
         url: "https://rotaractrvce.com/awaaz/2025/english/Ramayana5DemonsInTheForest.mp3"
     },
+    {
+        id: 21,
+        title: "Mahabharata - 18 Parvas",
+        year: 2025,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/18Parvas.mp3"
+    },
+    {
+        id: 22,
+        title: "Mahabharata - Kamadhenu",
+        year: 2025,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Kamadhenu.mp3"
+    },
+    {
+        id: 23,
+        title: "Mahabharata - Krishnana Upadesha",
+        year: 2025,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/KrishnanaUpadesha.mp3"
+    },
+    {
+        id: 24,
+        title: "Mahabharata - Samanthapanchaka",
+        year: 2025,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Samanthapanchaka.mp3"
+    },
+    {
+        id: 25,
+        title: "Mahabharata - Yuddhishtirana Satyaprema",
+        year: 2025,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/YuddhishtiranaSatyaprema.mp3"
+    },
 ];
 
 export default audioFiles;
