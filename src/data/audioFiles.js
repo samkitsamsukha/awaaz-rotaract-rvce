@@ -368,7 +368,58 @@ const audioFiles = [
         category: "Story",
         contributor: "Rtr. Aditi Amit Kallolkar",
         url: "https://rotaractrvce.com/awaaz/2025/english/Thesmile.m4a"
+    },
+    {
+        id: 38,
+        title: "Bhagwan Raam Ka Vanvas",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/BhagwanRAAMkaVanvas.m4a"
+    },
+    {
+        id: 39,
+        title: "Moti Chinki Ki Dosti",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/MotiChinkiKiDosti.m4a"
+    },
+    {
+        id: 40,
+        title: "Chanda Mama Ka Gaav",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/Poem-ChandaMamaKaGaav.m4a"
+    },
+    {
+        id: 41,
+        title: "Jungle Ki Sair",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/Poem-JungleKiSair.m4a"
+    },
+    {
+        id: 42,
+        title: "Titli Raani",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Oojam Chaudhary",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/Poem-TitliRaani.m4a"
     }
+
 
 ];
 
