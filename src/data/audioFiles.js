@@ -418,8 +418,17 @@ const audioFiles = [
         category: "Poem",
         contributor: "Rtr. Oojam Chaudhary",
         url: "https://rotaractrvce.com/awaaz/2025/hindi/Poem-TitliRaani.m4a"
+    },
+    {
+        id: 43,
+        title: "Basic Interview 1",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Ashutosh",
+        url: "https://rotaractrvce.com/awaaz/2026/english/BasicInterview1.mp3"
     }
-
 
 ];
 
