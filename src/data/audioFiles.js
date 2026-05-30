@@ -608,6 +608,16 @@ const audioFiles = [
         category: "Story",
         contributor: "Rtr. Nemitha",
         url: "https://rotaractrvce.com/awaaz/2026/telugu/TaabeluGarvam.mp3"
+    },
+    {
+        id: 62,
+        title: "June Kathe Chah",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/JuneKatheChah.m4a"
     }
 
 
