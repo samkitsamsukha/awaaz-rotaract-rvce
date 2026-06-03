@@ -19,6 +19,10 @@ const eventChairs = [
         year: "2024-25",
         chairs: ["Rtr. Yashaswini Rajiv Kumar", "Rtr. Swati Gorampalli"]
     },
+    {
+        year: "2025-26",
+        chairs: ["Rtr. Nivriti Jain", "Rtr. Navya K J"]
+    },
 ]
 
 const ContributorsPage = () => {
