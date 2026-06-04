@@ -202,8 +202,8 @@ const AudioLibraryPage = () => {
                             <option value="all">All Languages</option>
                             <option value="English">English</option>
                             <option value="Hindi">Hindi</option>
-                            <option value="Marathi">Marathi</option>
                             <option value="Kannada">Kannada</option>
+                            <option value="Odia">Odia</option>
                         </select>
                         <select
                             value={filterCategory}
