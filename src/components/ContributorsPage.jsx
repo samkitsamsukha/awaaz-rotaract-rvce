@@ -31,7 +31,7 @@ const ContributorsPage = () => {
     ].sort();
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-rose-50/30">
+        <div className="min-h-screen bg-linear-to-br from-rose-50 via-white to-rose-50/30">
             {/* Animated Background Elements */}
             <div className="absolute inset-0 overflow-hidden pointer-events-none">
                 <div className="absolute top-0 left-1/4 w-96 h-96 bg-rose-200/40 rounded-full blur-3xl animate-pulse" />
@@ -78,8 +78,8 @@ const ContributorsPage = () => {
                                     {/* Year Badge */}
                                     <div className="inline-block mb-3">
                                         <div className="relative">
-                                            <div className="absolute inset-0 bg-gradient-to-r from-rose-500 to-rose-600 rounded-lg" />
-                                            <div className="relative px-4 py-1.5 bg-gradient-to-r from-rose-500 to-rose-600 rounded-lg">
+                                            <div className="absolute inset-0 bg-linear-to-r from-rose-500 to-rose-600 rounded-lg" />
+                                            <div className="relative px-4 py-1.5 bg-linear-to-r from-rose-500 to-rose-600 rounded-lg">
                                                 <span className="text-base font-black text-white tracking-wider">
                                                     {year}
                                                 </span>
@@ -117,7 +117,7 @@ const ContributorsPage = () => {
                     {/* Count Badge */}
                     <div className="text-center mb-6">
                         <div className="inline-flex items-center gap-3 px-6 py-3 bg-white rounded-full border border-rose-200">
-                            <span className="text-3xl font-black bg-gradient-to-r from-rose-600 to-rose-500 bg-clip-text text-transparent">
+                            <span className="text-3xl font-black bg-linear-to-r from-rose-600 to-rose-500 bg-clip-text text-transparent">
                                 {uniqueContributors.length}
                             </span>
                             <span className="text-sm font-black uppercase tracking-wider text-gray-900">

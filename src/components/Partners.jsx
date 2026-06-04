@@ -3,6 +3,109 @@ import { MapPin } from "lucide-react";
 
 const partnerNGOs = [
     {
+        name: "Gnana Jyothi Trust For The Disabled",
+        description:
+            "A Bengaluru-based NGO founded by visually impaired individuals. The organization provides Braille textbooks, academic support, hostels, assistive learning resources, and educational opportunities for blind students across Karnataka.",
+        location:
+            "No. 2, Syndicate Bank Colony, Magadi Main Road, Bengaluru, Karnataka - 560079"
+    },
+
+    {
+        name: "Swavalambana Charitable Trust",
+        description:
+            "A charitable trust focused on empowering persons with disabilities through rehabilitation, skill development, livelihood support, accessibility initiatives, and community inclusion programs.",
+        location:
+            "Kengeri, Bengaluru, Karnataka"
+    },
+
+    {
+        name: "Battle For Blindness Foundation",
+        description:
+            "A non-profit organization dedicated to supporting visually impaired individuals, especially blind girls. Its initiatives include educational support, residential care, assistive technology, mobility aids, employment support, and financial assistance.",
+        location:
+            "A1 Block, Amrit Vihar, Burari, North Delhi, Delhi - 110084"
+    },
+
+    {
+        name: "Divya Jyothi Charitable Trust",
+        description:
+            "A charitable organization working towards social welfare, educational assistance, healthcare outreach, and support for underprivileged communities and persons with disabilities.",
+        location:
+            "Bengaluru, Karnataka"
+    },
+
+    {
+        name: "Adarsha Community Development Services",
+        description:
+            "A grassroots development organization supporting education, livelihood enhancement, community development, and welfare initiatives for marginalized populations.",
+        location:
+            "B Narayanaswamy Building, Whitefield, Immadihalli, Bengaluru, Karnataka - 560066"
+    },
+
+    {
+        name: "Drishti Foundation Trust",
+        description:
+            "An organization working in the areas of disability support, education, healthcare, awareness programs, and social empowerment for underserved communities.",
+        location:
+            "Bengaluru, Karnataka"
+    },
+
+    {
+        name: "Udaan Foundation",
+        description:
+            "A non-profit focused on education, skill development, healthcare assistance, and empowerment initiatives aimed at creating sustainable opportunities for vulnerable communities.",
+        location:
+            "New Delhi, Delhi"
+    },
+
+    {
+        name: "The Welfare School For The Blind",
+        description:
+            "An educational institution and welfare organization dedicated to providing quality education, rehabilitation, vocational training, and independent living skills for visually impaired students.",
+        location:
+            "Bhubaneswar, Odisha"
+    },
+
+    {
+        name: "Prabhata Sindhuri Educational Society",
+        description:
+            "An educational society involved in supporting inclusive education, student development, and welfare initiatives for children from diverse backgrounds.",
+        location:
+            "Karnataka"
+    },
+
+    {
+        name: "VARA Foundations (R)",
+        description:
+            "A registered charitable organization working on social welfare, community development, education support, and empowerment programs for underserved groups.",
+        location:
+            "Karnataka"
+    },
+
+    {
+        name: "Ashwini Angadi Trust",
+        description:
+            "A charitable trust engaged in educational assistance, community outreach, and social impact initiatives focused on improving quality of life for disadvantaged groups.",
+        location:
+            "Karnataka"
+    },
+
+    {
+        name: "SHREE MANUKULA CHARITABLE & EDUCATIONAL TRUST",
+        description:
+            "A trust supporting educational development, charitable activities, welfare programs, and community upliftment through various social initiatives.",
+        location:
+            "Karnataka"
+    },
+
+    {
+        name: "Prodigals' Home & TIKVAH Centre",
+        description:
+            "A Nagaland-based NGO providing shelter, education, rehabilitation, counseling, and holistic support for children and vulnerable individuals in need.",
+        location:
+            "Dimapur, Nagaland"
+    },
+    {
         name: "Adarsh Community Development Services",
         description: "A non-profit organization working at the grassroots level to support underprivileged communities. They focus on social welfare initiatives such as education support, livelihood development, and community empowerment in and around Bangalore.",
         location: "B Narayanaswamy Building, Whitefield, Immadihalli, Bangalore - 560066 (Near Kaveri Bakery)"
