@@ -10,6 +10,36 @@ const audioFiles = [
         url: "https://rotaractrvce.com/awaaz/2025/hindi/ShaheedBhagatSingh.mp3"
     },
     {
+        id: 10000,
+        title: "Dr. APJ Abdul Kalam",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pratham M Pimpalshende",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/APJAbdulKalam.mp3"
+    },
+    {
+        id: 10001,
+        title: "Dr. BR Ambedkar",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pratham M Pimpalshende",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/BRAmbedkar.mp3"
+    },
+    {
+        id: 10002,
+        title: "Netaji Subhash Chandra Bose",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pratham M Pimpalshende",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/Netaji.mp3"
+    },
+    {
         id: 2,
         title: "Arjuna and the Bird's Eye",
         year: 2025,
