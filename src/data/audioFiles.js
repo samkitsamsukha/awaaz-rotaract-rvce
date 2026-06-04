@@ -40,6 +40,16 @@ const audioFiles = [
         url: "https://rotaractrvce.com/awaaz/2025/hindi/Netaji.mp3"
     },
     {
+        id: 10003,
+        title: "Rani Lakshmibai",
+        year: 2025,
+        grade: "3-5",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pratham M Pimpalshende",
+        url: "https://rotaractrvce.com/awaaz/2025/hindi/RaniLaxmibai.mp3"
+    },
+    {
         id: 2,
         title: "Arjuna and the Bird's Eye",
         year: 2025,
