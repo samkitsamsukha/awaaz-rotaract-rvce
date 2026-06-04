@@ -360,6 +360,56 @@ const audioFiles = [
         url: "https://rotaractrvce.com/awaaz/2025/english/Ramayana5DemonsInTheForest.mp3"
     },
     {
+        id: 2000,
+        title: "Ramayana 6: Kidnapping of Sita",
+        year: 2025,
+        grade: "3-5",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Yash Gautam",
+        url: "https://rotaractrvce.com/awaaz/2025/english/6 Kidnapping of Sita.m4a"
+    },
+    {
+        id: 2001,
+        title: "Ramayana 7: Ram searches for Sita",
+        year: 2025,
+        grade: "3-5",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Yash Gautam",
+        url: "https://rotaractrvce.com/awaaz/2025/english/7 Rama searches for Sita.m4a"
+    },
+    {
+        id: 2002,
+        title: "Ramayana 8: The Land of Monkeys",
+        year: 2025,
+        grade: "3-5",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Yash Gautam",
+        url: "https://rotaractrvce.com/awaaz/2025/english/8 The land of the monkeys.m4a"
+    },
+    {
+        id: 2003,
+        title: "Ramayana 9: Hanuman meets Sita",
+        year: 2025,
+        grade: "3-5",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Yash Gautam",
+        url: "https://rotaractrvce.com/awaaz/2025/english/9 Hanuman meets Sita- Lanka is destroyed.m4a"
+    },
+    {
+        id: 2004,
+        title: "Ramayana 10: The Battle of Lanka",
+        year: 2025,
+        grade: "3-5",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Yash Gautam",
+        url: "https://rotaractrvce.com/awaaz/2025/english/10 The War.m4a"
+    },
+    {
         id: 21,
         title: "Mahabharata - 18 Parvas",
         year: 2025,
