@@ -418,6 +418,206 @@ const audioFiles = [
         category: "Poem",
         contributor: "Rtr. Oojam Chaudhary",
         url: "https://rotaractrvce.com/awaaz/2025/hindi/Poem-TitliRaani.m4a"
+    },
+    {
+        id: 43,
+        title: "Basic Interview 1",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Ashutosh",
+        url: "https://rotaractrvce.com/awaaz/2026/english/BasicInterview1.mp3"
+    },
+    {
+        id: 44,
+        title: "Basic Interview 2",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Ashutosh",
+        url: "https://rotaractrvce.com/awaaz/2026/english/BasicInterview2.mp3"
+    },
+    {
+        id: 45,
+        title: "Basic Interview 3",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Ashutosh",
+        url: "https://rotaractrvce.com/awaaz/2026/english/BasicInterview3.mp3"
+    },
+    {
+        id: 46,
+        title: "The Gift of Wise Men",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheGiftOfWiseMen.mp3"
+    },
+    {
+        id: 47,
+        title: "The Happy Prince",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheHappyPrince.mp3"
+    },
+    {
+        id: 48,
+        title: "The Necklace",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheNecklace.mp3"
+    },
+    {
+        id: 49,
+        title: "The Selfish Giant",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheSelfishGiant.mp3"
+    },
+    {
+        id: 50,
+        title: "Two Frogs",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/2Frogs.m4a"
+    },
+    {
+        id: 51,
+        title: "Bhavaliya Kutantra",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/BhavaliyaKutantra.m4a"
+    },
+    {
+        id: 52,
+        title: "Farmer And Four Kids",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/FarmerAndFourKids.m4a"
+    },
+    {
+        id: 53,
+        title: "Intelligent Fox",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/IntelligentFox.m4a"
+    },
+    {
+        id: 54,
+        title: "March 2026 Current Affairs 1",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/MarchCurrentAffairs1.m4a"
+    },
+    {
+        id: 55,
+        title: "March 2026 Current Affairs 2",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/MarchCurrentAffairs2.m4a"
+    },
+    {
+        id: 56,
+        title: "Raita Mattu Haddu",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/RaitaMattuHaddu.m4a"
+    },
+    {
+        id: 57,
+        title: "Small Birds Big Heart",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/SmallBirdsBigHeart.m4a"
+    },
+    {
+        id: 58,
+        title: "Two Foolish Cats",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/TwoFoolishCats.m4a"
+    },
+    {
+        id: 59,
+        title: "Kashtaniki Gurthimpu",
+        year: 2026,
+        grade: "3-5",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/telugu/KashtanikiGurthimpu.mp3"
+    },
+    {
+        id: 60,
+        title: "Snehamante Idhera",
+        year: 2026,
+        grade: "3-5",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/telugu/SnehamanteIdhera.mp3"
+    },
+    {
+        id: 61,
+        title: "Taabelu Garvam",
+        year: 2026,
+        grade: "3-5",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Nemitha",
+        url: "https://rotaractrvce.com/awaaz/2026/telugu/TaabeluGarvam.mp3"
+    },
+    {
+        id: 62,
+        title: "June Kathe Chah",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Stuthi",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/JuneKatheChah.m4a"
     }
 
 
