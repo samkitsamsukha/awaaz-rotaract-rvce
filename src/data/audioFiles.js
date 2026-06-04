@@ -50,6 +50,126 @@ const audioFiles = [
         url: "https://rotaractrvce.com/awaaz/2025/hindi/RaniLaxmibai.mp3"
     },
     {
+        id: 10003,
+        title: "Sociology Unit 1",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 1.m4a"
+    },
+    {
+        id: 10004,
+        title: "Sociology Unit 2",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 2.m4a"
+    },
+    {
+        id: 10005,
+        title: "Sociology Unit 3",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 3.m4a"
+    },
+    {
+        id: 10006,
+        title: "Sociology Unit 4",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 4.m4a"
+    },
+    {
+        id: 10007,
+        title: "Sociology Unit 5",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 5.m4a"
+    },
+    {
+        id: 10008,
+        title: "Sociology Unit 6",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 6.m4a"
+    },
+    {
+        id: 10009,
+        title: "Sociology Unit 7",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 7.m4a"
+    },
+    {
+        id: 10010,
+        title: "Sociology Unit 8",
+        year: 2025,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Deeksha A J",
+        url: "https://rotaractrvce.com/awaaz/2025/kannada/Sociology Unit 8.m4a"
+    },
+    {
+        id: 10011,
+        title: "Sentence and Subject",
+        year: 2025,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/english/Sentence and Subject.m4a"
+    },
+    {
+        id: 10012,
+        title: "Phrases and Clauses",
+        year: 2025,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/english/Phrases and Clauses.m4a"
+    },
+    {
+        id: 10013,
+        title: "Nouns",
+        year: 2025,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/english/Nouns.m4a"
+    },
+    {
+        id: 10014,
+        title: "Parts of Speech",
+        year: 2025,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Divya Sarvi",
+        url: "https://rotaractrvce.com/awaaz/2025/english/Parts of Speech.m4a"
+    },
+    {
         id: 2,
         title: "Arjuna and the Bird's Eye",
         year: 2025,
