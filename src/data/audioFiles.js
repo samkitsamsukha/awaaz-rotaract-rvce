@@ -2159,7 +2159,267 @@ const audioFiles = [
         contributor: "Rtr. Aayushi",
         url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-8.mp3"
     },
-
+    {
+        id: 146,
+        title: "Bhakta Prahlada Ki Atoot Bhakti",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/BhaktaPrahladaKiAtootBhakti.mp3"
+    },
+    {
+        id: 147,
+        title: "Ek Daane Ka Chamatkar",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/EkDaaneKaChamatkar.mp3"
+    },
+    {
+        id: 148,
+        title: "Gajendra Moksha",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/GajendraMoksha.mp3"
+    },
+    {
+        id: 149,
+        title: "Hanuman Aur Sanjeevani Bhooti",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HanumanAurSanjeevaniBhooti.mp3"
+    },
+    {
+        id: 150,
+        title: "Ram Aur Gilahari",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/RamAurGilahari.mp3"
+    },
+    {
+        id: 151,
+        title: "Sudhama Aur Shri Krishna Ki Mitrata",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/SudhamaAurShriKrishnaKiMitrata.mp3"
+    },
+    {
+        id: 152,
+        title: "Bheem Aur Gandharva",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/BheemAurGandharva.mp3"
+    },
+    {
+        id: 153,
+        title: "Ekalavya Ki Guru Bhakti",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/EkalavyaKiGuruBhakti.m4a"
+    },
+    {
+        id: 154,
+        title: "Ek Raat Vrindhavan Jaisi",
+        year: 2026,
+        grade: "9-12",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/EkRaatVrindhavanJaisi.mp3"
+    },
+    {
+        id: 155,
+        title: "Bhikhari Aur Laddu",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/BhikhariAurLaddu.m4a"
+    },
+    {
+        id: 156,
+        title: "Bholi Savitri",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/BholiSavitri.m4a"
+    },
+    {
+        id: 157,
+        title: "Dawat",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Dawat.m4a"
+    },
+    {
+        id: 158,
+        title: "Gilheri Ki Kahani",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/GilheriKiKahani.mp3"
+    },
+    {
+        id: 159,
+        title: "Lalchi Kisan",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/LalchiKisan.m4a"
+    },
+    {
+        id: 160,
+        title: "Pujari Aur Saap",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/PujariAurSaap.m4a"
+    },
+    {
+        id: 161,
+        title: "Sacchi Dosti",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Story",
+        contributor: "Rtr. Priyansh",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/SacchiDosti.m4a"
+    },
+    {
+        id: 162,
+        title: "Hindi Quiz-1",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HindiQuiz-1.mp3"
+    },
+    {
+        id: 163,
+        title: "Hindi Quiz-2",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HindiQuiz-2.mp3"
+    },
+    {
+        id: 164,
+        title: "Hindi Quiz-3",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HindiQuiz-3.mp3"
+    },
+    {
+        id: 165,
+        title: "Hindi Quiz-4",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HindiQuiz-4.mp3"
+    },
+    {
+        id: 166,
+        title: "Hindi Quiz-5",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HindiQuiz-5.mp3"
+    },
+    {
+        id: 167,
+        title: "Chiluka Jinka Sneham",
+        year: 2026,
+        grade: "6-8",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/ChilukaJinkaSneham.mp3"
+    },
+    {
+        id: 168,
+        title: "Edu Chepala Katha",
+        year: 2026,
+        grade: "6-8",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/EduChepalaKatha.mp3"
+    },
+    {
+        id: 169,
+        title: "Gummadi Kaaya Donga",
+        year: 2026,
+        grade: "6-8",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/GummadiKaayaDonga.mp3"
+    },
+    {
+        id: 170,
+        title: "Kaaki Mariyu Nakka",
+        year: 2026,
+        grade: "6-8",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/KaakiMariyuNakka.mp3"
+    },
+    {
+        id: 171,
+        title: "Kothi Rotte",
+        year: 2026,
+        grade: "6-8",
+        language: "Telugu",
+        category: "Story",
+        contributor: "Rtr. Pavana",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/KothiRotte.mp3"
+    },
+    
 
 
 ];
