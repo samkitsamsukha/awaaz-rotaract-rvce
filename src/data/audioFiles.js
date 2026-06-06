@@ -1328,7 +1328,469 @@ const audioFiles = [
         category: "Story",
         contributor: "Rtr. Stuthi",
         url: "https://rotaractrvce.com/awaaz/2026/kannada/JuneKatheChah.m4a"
-    }
+    },
+    {
+        id: 63,
+        title: "A Brave Heart",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/ABraveHeart.m4a"
+    },
+    {
+        id: 64,
+        title: "A Lamp Of Wishes",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/ALampOfWishes.m4a"
+    },
+    {
+        id: 65,
+        title: "Ali Babas Secret",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/AliBabasSecret.m4a"
+    },
+    {
+        id: 66,
+        title: "Arabian Nights",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/ArabianNights.m4a"
+    },
+    {
+        id: 67,
+        title: "Ali Babas Secret",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/AliBabasSecret.m4a"
+    },
+    {
+        id: 68,
+        title: "Believe In Yourself",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/BelieveInYourself.m4a"
+    },
+    {
+        id: 69,
+        title: "Believe",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Believe.m4a"
+    },
+    {
+        id: 70,
+        title: "Fearless",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Fearless.m4a"
+    },
+    {
+        id: 71,
+        title: "Fire Of Passion",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/FireOfPassion.m4a"
+    },
+    {
+        id: 72,
+        title: "Fire Within",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/FireWithin.m4a"
+    },
+    {
+        id: 73,
+        title: "Moon Over The Desert",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/MoonOverTheDesert.m4a"
+    },
+    {
+        id: 74,
+        title: "One Step",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/OneStep.m4a"
+    },
+    {
+        id: 75,
+        title: "Rise Again",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/RiseAgain.m4a"
+    },
+    {
+        id: 76,
+        title: "Shine",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Shine.m4a"
+    },
+    {
+        id: 77,
+        title: "Stronger Than Fear",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/StrongerThanFear.m4a"
+    },
+    {
+        id: 78,
+        title: "The Climb",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheClimb.m4a"
+    },
+    {
+        id: 79,
+        title: "The Mirror",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMirror.m4a"
+    },
+    {
+        id: 80,
+        title: "The Night Sky",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheNightSky.m4a"
+    },
+    {
+        id: 81,
+        title: "Wings",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Wings.m4a"
+    },
+    {
+        id: 82,
+        title: "Your Own Story",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/YourOwnStory.m4a"
+    },
+    {
+        id: 83,
+        title: "AladdinAndTheWonderfulLamp",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/AladdinAndTheWonderfulLamp.m4a"
+    },
+    {
+        id: 84,
+        title: "The Bookshop At The End Of The Street",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBookshopAtTheEndOfTheStreet.m4a"
+    },
+    {
+        id: 85,
+        title: "The Boy Who Collected Sunsets",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBoyWhoCollectedSunsets.m4a"
+    },
+    {
+        id: 86,
+        title: "The Boy Who Painted Dreams",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBoyWhoPaintedDreams.m4a"
+    },
+    {
+        id: 87,
+        title: "The Garden Behind The Wall",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheGardenBehindTheWall.m4a"
+    },
+    {
+        id: 88,
+        title: "The Girl And The Sea",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheGirlAndTheSea.m4a"
+    },
+    {
+        id: 89,
+        title: "The Lantern Maker",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheLanternMaker.m4a"
+    },
+    {
+        id: 90,
+        title: "The Library Of Lost Letters",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheLibraryOfLostLetters.m4a"
+    },
+    {
+        id: 91,
+        title: "The Lighthouse Beyond The Cliffs",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheLighthouseBeyondTheCliffs.m4a"
+    },
+    {
+        id: 92,
+        title: "The Mountain Village",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMountainVillage.m4a"
+    },
+    {
+        id: 93,
+        title: "The Painter Of Rain",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/ThePainterOfRain.m4a"
+    },
+    {
+        id: 94,
+        title: "The Train At Midnight",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheTrainAtMidnight.m4a"
+    },
+    {
+        id: 95,
+        title: "The Watchmakers Daughter",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Afnaan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheWatchmakersDaughter.m4a"
+    },
+    {
+        id: 96,
+        title: "Discipline In The Dark",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Motivational",
+        contributor: "Rtr. Manya",
+        url: "https://rotaractrvce.com/awaaz/2026/english/DisciplineInTheDark.m4a"
+    },
+    {
+        id: 97,
+        title: "The Strength Of Silent Struggles",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Motivational",
+        contributor: "Rtr. Manya",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheStrengthOfSilentStruggles.m4a"
+    },
+    {
+        id: 98,
+        title: "Where Strength Is Born",
+        year: 2026,
+        grade: "9-12",
+        language: "English",
+        category: "Motivational",
+        contributor: "Rtr. Manya",
+        url: "https://rotaractrvce.com/awaaz/2026/english/WhereStrengthIsBorn.m4a"
+    },
+    {
+        id: 99,
+        title: "God Who Came Second",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/GodWhoCameSecond.m4a"
+    },
+    {
+        id: 100,
+        title: "Last Dragon Who Forgot How To Burn",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/LastDragonWhoForgotHowToBurn.m4a"
+    },
+    {
+        id: 101,
+        title: "Library At The End Of The World",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/LibraryAtTheEndOfTheWorld.m4a"
+    },
+    {
+        id: 102,
+        title: "Priya",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Priya.m4a"
+    },
+    {
+        id: 103,
+        title: "The Algorithm And The Fishermen",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheAlgorithmAndTheFishermen.m4a"
+    },
+    {
+        id: 104,
+        title: "The Boy Who Built A Library From Trash",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBoyWhoBuiltALibraryFromTrash.m4a"
+    },
+    {
+        id: 105,
+        title: "The Farmer Who Talked To A Satellite",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFarmerWhoTalkedToASatellite.m4a"
+    },
+    {
+        id: 106,
+        title: "The King Who Was Afraid Of His Own Shadow",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheKingWhoWasAfraidOfHisOwnShadow.m4a"
+    },
+    {
+        id: 107,
+        title: "The Map That Only Works When You Move",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMapThatOnlyWorksWhenYouMove.m4a"
+    },
+    {
+        id: 108,
+        title: "The River That Was Given Back",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aryan",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheRiverThatWasGivenBack.m4a"
+    },
+
+
 
 
 ];
