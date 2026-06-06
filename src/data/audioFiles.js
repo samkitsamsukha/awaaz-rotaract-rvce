@@ -1327,7 +1327,7 @@ const audioFiles = [
         language: "Kannada",
         category: "Story",
         contributor: "Rtr. Stuthi",
-        url: "https://rotaractrvce.com/awaaz/2026/kannada/JuneKatheChah.m4a"
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/JuneKatheChah.mp3"
     },
     {
         id: 63,
@@ -1687,7 +1687,7 @@ const audioFiles = [
         language: "English",
         category: "Motivational",
         contributor: "Rtr. Manya",
-        url: "https://rotaractrvce.com/awaaz/2026/english/WhereStrengthIsBorn.m4a"
+        url: "https://rotaractrvce.com/awaaz/2026/english/WhereStrengthIsBorn.mp3"
     },
     {
         id: 99,
@@ -1789,7 +1789,376 @@ const audioFiles = [
         contributor: "Rtr. Aryan",
         url: "https://rotaractrvce.com/awaaz/2026/english/TheRiverThatWasGivenBack.m4a"
     },
-
+    {
+        id: 109,
+        title: "Hanuman's Leap To Lanka",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Hanuman'sLeapToLanka.mp3"
+    },
+    {
+        id: 110,
+        title: "Krishna Lifts the Govardhan Hill",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/KrishnaLiftsGovardhanHill.m4a"
+    },
+    {
+        id: 111,
+        title: "The Blue Jackal",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBlueJackal.mp3"
+    },
+    {
+        id: 112,
+        title: "The Boy Who Couldn't Run",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBoyWhoCouldn'tRun.mp3"
+    },
+    {
+        id: 113,
+        title: "The Foolish Lion And The Clever Hare",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFoolishLionAndTheCleverHare.mp3"
+    },
+    {
+        id: 114,
+        title: "Yudhishthira And The Lake Of Wisdom",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Ritisha",
+        url: "https://rotaractrvce.com/awaaz/2026/english/YudhishthiraAndTheLakeOfWisdom.mp3"
+    },
+    {
+        id: 115,
+        title: "Sunshine Story on Nature",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/SunshineStoryonNature.mp3"
+    },
+    {
+        id: 116,
+        title: "The Ant and the Dove",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheAntandtheDove.mp3"
+    },
+    {
+        id: 117,
+        title: "The Blinking Beacon and the List Pod",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheBlinkingBeaconandtheListPod.mp3"
+    },
+    {
+        id: 118,
+        title: "The Crow and the Pitcher",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheCrowandthePitcher.mp3"
+    },
+    {
+        id: 119,
+        title: "The Dog and his Reflection",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheDogandhisReflection.mp3"
+    },
+    {
+        id: 120,
+        title: "The Eagle and the Beetle",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheEagleandtheBeetle.mp3"
+    },
+    {
+        id: 121,
+        title: "The Fox and the Crow",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFoxandtheCrow.mp3"
+    },
+    {
+        id: 122,
+        title: "The Fox and the Goat",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFoxandtheGoat.mp3"
+    },
+    {
+        id: 123,
+        title: "The Fox and the Leopard",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFoxandtheLeopard.mp3"
+    },
+    {
+        id: 124,
+        title: "The Fox and the Stork",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFoxandtheStork.mp3"
+    },
+    {
+        id: 125,
+        title: "The Frog and the Mouse",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheFrogandtheMouse.mp3"
+    },
+    {
+        id: 126,
+        title: "The Hare and the Tortoise",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheHareandtheTortoise.mp3"
+    },
+    {
+        id: 127,
+        title: "The Heron",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheHeron.mp3"
+    },
+    {
+        id: 128,
+        title: "The Melody of the Stars",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMelodyoftheStars.mp3"
+    },
+    {
+        id: 129,
+        title: "The Mother and the Wolf",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheMotherandtheWolf.mp3"
+    },
+    {
+        id: 130,
+        title: "The Oak and the Reeds",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheOakandtheReeds.mp3"
+    },
+    {
+        id: 131,
+        title: "The Owl and the Grasshopper",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheOwlandtheGrasshopper.mp3"
+    },
+    {
+        id: 132,
+        title: "The Plane Tree",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/ThePlaneTree.mp3"
+    },
+    {
+        id: 133,
+        title: "The Stage and his Reflection",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheStageandhisReflection.mp3"
+    },
+    {
+        id: 134,
+        title: "The Town Mouse and the Country Mouse",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheTownMouseandtheCountryMouse.mp3"
+    },
+    {
+        id: 135,
+        title: "The Two Goats",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheTwoGoats.mp3"
+    },
+    {
+        id: 136,
+        title: "The Wild Boar and the Fox",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheWildBoarandtheFox.mp3"
+    },
+    {
+        id: 137,
+        title: "The Wolf in Sheep's Clothing",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Story",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/TheWolfinSheep'sClothing.mp3"
+    },
+    {
+        id: 138,
+        title: "English Quiz-1",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-1.mp3"
+    },
+    {
+        id: 139,
+        title: "English Quiz-2",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-2.mp3"
+    },
+    {
+        id: 140,
+        title: "English Quiz-3",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-3.mp3"
+    },
+    {
+        id: 141,
+        title: "English Quiz-4",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-4.mp3"
+    },
+    {
+        id: 142,
+        title: "English Quiz-5",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-5.mp3"
+    },
+    {
+        id: 143,
+        title: "English Quiz-6",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-6.mp3"
+    },
+    {
+        id: 144,
+        title: "English Quiz-7",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-7.mp3"
+    },
+    {
+        id: 145,
+        title: "English Quiz-8",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Educational",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EnglishQuiz-8.mp3"
+    },
 
 
 
