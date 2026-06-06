@@ -225,7 +225,7 @@ const AwaazWebsite = () => {
             {
                 label: 'Year-wise NGOs reached',
                 value: '42',
-                detail: '2021: 3 · 2022: 15 · 2023: 28 · 2024: 42',
+                detail: impactTimeline.map((entry) => `${entry.year}: ${entry.ngos}`).join(' · '),
                 icon: <Users size={18} />,
                 tone: 'from-purple-500 to-purple-500',
             },
@@ -327,7 +327,7 @@ const AwaazWebsite = () => {
                                         <span>Audiobooks recorded</span>
                                     </div>
 
-                                    <div className="mt-5 grid h-64 grid-cols-6 items-end gap-3">
+                                    <div className="mt-5 grid h-64 grid-cols-4 items-end gap-3">
                                         {allImpactYears.map((year) => {
                                             const ngoValue = ngoYearEntries.find((entry) => entry.year === year)?.count || 0;
                                             const audioValue = audioYearEntries.find((entry) => entry.year === year)?.count || 0;
@@ -368,10 +368,6 @@ const AwaazWebsite = () => {
                                         <span className="inline-flex items-center gap-2">
                                             <span className="h-2 w-2 rounded-full bg-cyan-300" />
                                             Audiobooks recorded
-                                        </span>
-                                        <span className="inline-flex items-center gap-2">
-                                            <span className="h-2 w-2 rounded-full bg-emerald-300" />
-                                            Runtime + language intelligence from audioFiles.js
                                         </span>
                                     </div>
                                 </div>
