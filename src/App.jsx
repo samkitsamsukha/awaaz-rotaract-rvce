@@ -39,14 +39,13 @@ const awards = [
 ];
 
 const impactTimeline = [
-    { year: 2021, ngos: 3 },
-    { year: 2022, ngos: 15 },
-    { year: 2023, ngos: 28 },
-    { year: 2024, ngos: 42 },
+    { year: 2023, ngos: 14 },
+    { year: 2024, ngos: 15 },
+    { year: 2025, ngos: 21 },
     { year: 2026, ngos: 18 },
 ];
 
-const allImpactYears = [2021, 2022, 2023, 2024, 2025, 2026];
+const allImpactYears = [2023, 2024, 2025, 2026];
 
 const audioCountByYear = audioFiles.reduce((accumulator, audio) => {
     accumulator[audio.year] = (accumulator[audio.year] || 0) + 1;
