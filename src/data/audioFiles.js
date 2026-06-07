@@ -2419,6 +2419,278 @@ const audioFiles = [
         contributor: "Rtr. Pavana",
         url: "https://rotaractrvce.com/awaaz/2026/hindi/KothiRotte.mp3"
     },
+    {
+        id: 172,
+        title: "Dhanigala Belli Lota",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/DhanigalaBelliLota.mp3"
+    },
+    {
+        id: 173,
+        title: "Sir M Vishweshwarayya",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/SirMVishweshwarayya.mp3"
+    },
+    {
+        id: 174,
+        title: "Nanna Mane-Kuvempu",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/NannaMane-Kuvempu.mp3"
+    },
+    {
+        id: 175,
+        title: "Kattutheva Naavu",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/KattuthevaNaavu.m4a"
+    },
+    {
+        id: 176,
+        title: "Girish Karnad Kanna Mucchale",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/GirishKarnadKannaMucchale.m4a"
+    },
+    {
+        id: 177,
+        title: "Ambikatanayadutta",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Ambikatanayadutta.m4a"
+    },
+    {
+        id: 178,
+        title: "Ayya Kelayya Koodala Sanagama Deva",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/AyyaKelayyaKoodalaSanagamaDeva.m4a"
+    },
+    {
+        id: 179,
+        title: "Kalabeda Kolabeda",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/KalabedaKolabeda.m4a"
+    },
+    {
+        id: 180,
+        title: "Chali Barli Male Barli",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Poem",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/ChaliBarliMaleBarli.m4a"
+    },
+    {
+        id: 181,
+        title: "Indian Constitution - Introduction",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Introduction.m4a"
+    },
+    {
+        id: 182,
+        title: "Indian Constitution - Summary",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Summary.m4a"
+    },
+    {
+        id: 183,
+        title: "Indian Constitution - Sailent Features",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/SailentFeaturesoftheIndianConstitution.m4a"
+    },
+    {
+        id: 184,
+        title: "Indian Constitution - Fundamental Rights",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/FundamentalRights.m4a"
+    },
+    {
+        id: 185,
+        title: "Indian Constitution - Public Interest Litigation and Courts",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/PILandCourts.m4a"
+    },
+    {
+        id: 186,
+        title: "Indian Constitution - Preamble",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/PreambleofConstitution.m4a"
+    },
+    {
+        id: 187,
+        title: "Indian Constitution - Fundamental Duties",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/FundamentalDuties.m4a"
+    },
+    {
+        id: 188,
+        title: "Indian Constitution - Directive Principles of State Policy (DPSP)",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/DPSP.m4a"
+    },
+    {
+        id: 189,
+        title: "Indian Constitution - Conclusion",
+        year: 2026,
+        grade: "9-12",
+        language: "Kannada",
+        category: "Educational",
+        contributor: "Rtr. Shoheb",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Conclusion.m4a"
+    },
+    {
+        id: 190,
+        title: "Magic Pencil",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Manya",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/MagicPencil.m4a"
+    },
+    {
+        id: 191,
+        title: "Santhammanna",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Santhammanna.m4a"
+    },
+    {
+        id: 192,
+        title: "Railu Nildana",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/RailuNildana.m4a"
+    },
+    {
+        id: 193,
+        title: "Preethi Baduku",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/PreethiBaduku.m4a"
+    },
+    {
+        id: 194,
+        title: "Ikkala",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Ikkala.m4a"
+    },
+    {
+        id: 195,
+        title: "Ardha Daari",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/ArdhaDaari.m4a"
+    },
+    {
+        id: 196,
+        title: "Aame",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Aame.m4a"
+    },
+    {
+        id: 197,
+        title: "Cricket",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/Cricket.m4a"
+    },
+    {
+        id: 198,
+        title: "Kempu Gulabi",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Ghanashyam",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/KempuGulabi.m4a"
+    }
+
+
     
 
 
