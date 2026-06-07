@@ -2688,10 +2688,537 @@ const audioFiles = [
         category: "Story",
         contributor: "Rtr. Ghanashyam",
         url: "https://rotaractrvce.com/awaaz/2026/kannada/KempuGulabi.m4a"
+    },
+    {
+        id: 199,
+        title: "Lord Ganesha's Broken Tusk Legend",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/LordGaneshasBrokenTuskLegend.mp3"
+    },
+    {
+        id: 200,
+        title: "Efforts Matter More Than Luck",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/EffortsMatterMoreThanLuck.mp3"
+    },
+    {
+        id: 201,
+        title: "The Clever Dog",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/TheCleverDog.mp3"
+    },
+    {
+        id: 202,
+        title: "The Selection Of The Wise Minister",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/TheSelectionOfTheWiseMinister.mp3"
+    },
+    {
+        id: 203,
+        title: "Unity Is Strength",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/UnityIsStrength.mp3"
+    },
+    {
+        id: 204,
+        title: "Father's Life Lesson To Son",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/FathersLifeLessonToSon.mp3"
+    },
+    {
+        id: 205,
+        title: "The Art Of Gaining Knowledge",
+        year: 2026,
+        grade: "6-8",
+        language: "Kannada",
+        category: "Story",
+        contributor: "Rtr. Jayadeva",
+        url: "https://rotaractrvce.com/awaaz/2026/kannada/TheArtOfGainingKnowledge.mp3"
+    },
+    {
+        id: 206,
+        title: "Bitiya",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Bitiya.mp3"
+    },
+    {
+        id: 207,
+        title: "Aam Ki Tokri",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/AamKiTokri.mp3"
+    },
+    {
+        id: 208,
+        title: "Dhvani",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Dhvani.mp3"
+    },
+    {
+        id: 209,
+        title: "Ek Ek",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/EkEk.mp3"
+    },
+    {
+        id: 210,
+        title: "Chinti Rani",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/ChintiRani.mp3"
+    },
+    {
+        id: 211,
+        title: "Hum Sab Suman Ek Upvan",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/HumSabSumanEkUpvan.mp3"
+    },
+    {
+        id: 212,
+        title: "Majedar Tamatar",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/MajedarTamatar.mp3"
+    },
+    {
+        id: 213,
+        title: "Mera Desh Nirala",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/MeraDeshNirala.mp3"
+    },
+    {
+        id: 214,
+        title: "Chidiya Ka Sansar",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/ChidiyaKaSansar.mp3"
+    },
+    {
+        id: 215,
+        title: "Mere Sathi",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/MereSathi.mp3"
+    },
+    {
+        id: 216,
+        title: "Nanha Chuuha",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/NanhaChuuha.mp3"
+    },
+    {
+        id: 217,
+        title: "Nature - Ab Macha Hai Hahakar",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-AbMachaHaiHahakar.mp3"
+    },
+    {
+        id: 218,
+        title: "Nature - Baadal Aur Leherein",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-BaadalAurLeherein.mp3"
+    },
+    {
+        id: 219,
+        title: "Nature - Badh",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-Badh.mp3"
+    },
+    {
+        id: 220,
+        title: "Nature - Barsaat",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-Barsaat.mp3"
+    },
+    {
+        id: 221,
+        title: "Nature - Basant Aane Ko Hai",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-BasantAaneKoHai.mp3"
+    },
+    {
+        id: 222,
+        title: "Nature - Bin Paani Ke Kue Ki Tarah",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-BinPaaniKeKueKiTarah.mp3"
+    },
+    {
+        id: 223,
+        title: "Nature - Chidiya",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-Chidiya.mp3"
+    },
+    {
+        id: 224,
+        title: "Nature - Gilheri",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-Gilheri.mp3"
+    },
+    {
+        id: 225,
+        title: "Nature - Rituon Ke Sang Sang",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-RituonKeSangSang.mp3"
+    },
+    {
+        id: 226,
+        title: "Nature - Ped",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-Ped.mp3"
+    },
+    {
+        id: 227,
+        title: "Nature - Saavan Ka Vigyaan",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-SaavanKaVigyaan.mp3"
+    },
+    {
+        id: 228,
+        title: "Nature - Vriksh Dhara Ke Hain Adhaar",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Nature-VrikshDharaKeHainAdhaar.mp3"
+    },
+    {
+        id: 229,
+        title: "Prakrati Ka Sandesh",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/PrakratiKaSandesh.mp3"
+    },
+    {
+        id: 230,
+        title: "Relgaadi",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Relgaadi.mp3"
+    },
+    {
+        id: 231,
+        title: "School Hai Gyaan Mandir",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/SchoolHaiGyaanMandir.mp3"
+    },
+    {
+        id: 232,
+        title: "Shikshak",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Shikshak.mp3"
+    },
+    {
+        id: 233,
+        title: "Titli Rani",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/TitliRani.mp3"
+    },
+    {
+        id: 234,
+        title: "Titli Aur Kali",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/TitliAurKali.mp3"
+    },
+    {
+        id: 235,
+        title: "Subah",
+        year: 2026,
+        grade: "6-8",
+        language: "Hindi",
+        category: "Poem",
+        contributor: "Rtr. Anwesha",
+        url: "https://rotaractrvce.com/awaaz/2026/hindi/Subah.mp3"
+    },
+    {
+        id: 236,
+        title: "A Million Little Diamonds by Mary Frances Butts",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/AMillionLittleDiamondsbyMaryFrancesButts.mp33"
+    },
+    {
+        id: 237,
+        title: "Nature - Sanctuary",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20Sanctuary.mp3"
+    },
+    {
+        id: 238,
+        title: "I’m a Little Teapot by George Harold Sanders",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/I’maLittleTeapotbyGeorgeHaroldSanders.mp3"
+    },
+    {
+        id: 239,
+        title: "Eletelephony by Laura Elizabeth Richard",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/EletelephonybyLauraElizabethRichard.mp3"
+    },
+    {
+        id: 240,
+        title: "Nature - Fog",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20Fog.mp3"
+    },
+    {
+        id: 241,
+        title: "Nature - Spring",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20Spring.mp3"
+    },
+    {
+        id: 242,
+        title: "Nature - To Autumn",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20To%20Autumn.mp3"
+    },
+    {
+        id: 243,
+        title: "Nature - The Tyger",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20The%20Tyger.mp3"
+    },
+    {
+        id: 244,
+        title: "Nature - The Way Through The Woods",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20The%20way%20through%20the%20woods.mp3"
+    },
+    {
+        id: 245,
+        title: "Nature - The Eagle",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Nature-%20The%20eagle.mp3"
+    },
+    {
+        id: 246,
+        title: "Now We Are Six by A. A. Milne.",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Now%20We%20Are%20Six%20by%20A.%20A.%20Milne.mp3"
+    },
+    {
+        id: 247,
+        title: "Road Not Taken by Robert Frost",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Road%20not%20taken%20by%20Robert%20frost.mp3"
+    },
+    {
+        id: 248,
+        title: "The Crocodile By Lewis Carroll",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/The%20Crocodile%20By%20Lewis%20Carroll.mp3"
+    },
+    {
+        id: 249,
+        title: "The Cow George Harold Sanders",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/The%20Cow%20George%20Harold%20Sanders.mp3"
+    },
+    {
+        id: 250,
+        title: "Rabbits by Shannon W.",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Rabbits%20by%20Shannon%20W..mp3"
+    },
+    {
+        id: 251,
+        title: "Snowball By Shel Silverstein",
+        year: 2026,
+        grade: "6-8",
+        language: "English",
+        category: "Poem",
+        contributor: "Rtr. Aayushi",
+        url: "https://rotaractrvce.com/awaaz/2026/english/Snowball%20By%20Shel%20Silverstein.mp3"
     }
-
-
-    
 
 
 ];
